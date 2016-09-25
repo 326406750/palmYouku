@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <WebView
+        android:id="@+id/authorizationView"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" />
+</LinearLayout><!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/res/layout/activity_authorization_sns.xml --><!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/build/intermediates/bundles/debug/res/layout/activity_authorization_sns.xml -->

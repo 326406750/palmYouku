@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="RadioGroup"></item>
+    <item type="id" name="home_id"></item>
+    <item type="id" name="search_id"></item>
+    <item type="id" name="user_id"></item>
+    <item type="id" name="local_id"></item>
+</resources>

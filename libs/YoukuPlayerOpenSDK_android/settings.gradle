@@ -1,0 +1,3 @@
+include ':YoukuLoginSDK'
+include ':PlayerDemo'
+include ':YoukuPlayerOpenSDK'

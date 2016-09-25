@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   
+    
+    
+    <string name="app_name">掌上优酷 </string>
+    <string name="action_settings">设置</string>
+    <string name="main_bt_home">首页</string>
+    <string name="main_bt_search">搜索</string>
+    <string name="main_bt_user">我的</string>
+    <string name="main_bt_local">本地</string>
+    <string name="main_bt_down">应用下载</string>
+
+    
+
+    <string name="more_search_history">更多搜索历史</string>
+    <string name="hot_search_keyword">大家都在看</string>
+    <string name="search">搜索</string>
+    <string name="cancel_button">取消</string>
+    <string name="search_hint">请输入内容</string>
+
+    
+    <string name="loading">加载中&#8230;</string>
+
+</resources>

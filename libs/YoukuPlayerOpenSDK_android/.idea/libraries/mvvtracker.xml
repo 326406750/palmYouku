@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mvvtracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/YoukuPlayerOpenSDK/libs/mvvtracker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

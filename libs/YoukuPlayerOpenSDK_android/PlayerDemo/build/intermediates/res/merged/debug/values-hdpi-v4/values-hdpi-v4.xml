@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="capture_notice_layout_margin_top">25dp</dimen>
+    <dimen name="login_blue_line_Margin_top">30dp</dimen>
+    <dimen name="login_bottom_saosao_imageview_height_width">130dip</dimen>
+    <dimen name="login_bottom_sns_icon_center_line_height_width">32dip</dimen>
+    <dimen name="login_bottom_sns_icon_height_width">40dip</dimen>
+    <dimen name="login_layout_margin_bottom">7dp</dimen>
+    <dimen name="login_tips_margin_top_register">1dp</dimen>
+    <dimen name="login_user_sns_text_size">13dip</dimen>
+    <dimen name="myyouku_setting_divider">0.5dp</dimen>
+    <dimen name="text_size_1">9sp</dimen>
+    <dimen name="text_size_2">11sp</dimen>
+    <dimen name="text_size_3">12sp</dimen>
+    <dimen name="text_size_4">13sp</dimen>
+    <dimen name="text_size_5">14sp</dimen>
+    <dimen name="text_size_6">15sp</dimen>
+    <dimen name="text_size_7">18sp</dimen>
+    <dimen name="text_size_8">25sp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/res/values-large-land-tvdpi/dimens.xml -->
+    <eat-comment/>
+    <dimen name="homepage_item_spacing">8px</dimen>
+    <dimen name="homepage_title_height">72px</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/res/values-sw700dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="popup_menu_width">225dp</dimen>
+</resources>

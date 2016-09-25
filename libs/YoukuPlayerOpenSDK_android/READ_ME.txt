@@ -1,0 +1,1 @@
+本工程既可以用eclipse打开，也可以用Android studio 打开。

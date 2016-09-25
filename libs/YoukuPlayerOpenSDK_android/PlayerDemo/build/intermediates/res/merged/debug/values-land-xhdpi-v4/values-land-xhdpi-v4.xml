@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btn_switch_margin">5dp</dimen>
+    <dimen name="filter_cancel_height">37dp</dimen>
+    <dimen name="filter_cancel_width">44dp</dimen>
+    <dimen name="gridview_item_iv_height">142dp</dimen>
+    <dimen name="gridview_item_width">256dp</dimen>
+    <dimen name="gridview_pading_horizontal">8dp</dimen>
+    <dimen name="gridview_pading_top">8dp</dimen>
+    <dimen name="gridview_spacing">8dp</dimen>
+    <dimen name="homepage_item_half_width">155dp</dimen>
+    <dimen name="homepage_item_height">210dp</dimen>
+    <dimen name="homepage_item_spacing">8dp</dimen>
+    <dimen name="homepage_item_text_margin_left">7dp</dimen>
+    <dimen name="search_result_provider">38dp</dimen>
+    <dimen name="search_result_textsize">15sp</dimen>
+    <dimen name="subtitle_height">44dp</dimen>
+    <dimen name="subtitle_margin">15dp</dimen>
+</resources>

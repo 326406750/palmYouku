@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tab_indicator_pressed_color" android:state_focused="true"/>
+    <item android:drawable="@drawable/tab_indicator_pressed_color" android:state_pressed="true"/>
+    <item android:drawable="@drawable/tab_indicator_pressed_color" android:state_selected="true"/>
+    <item android:drawable="@drawable/tab_indicator_normal"/>
+
+</selector><!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/res/drawable/other_person_gridview_item_selector.xml --><!-- From: file:/D:/AndroidStudioProjects/OpenSourceProject/nm/palmYouku/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/build/intermediates/bundles/debug/res/drawable/other_person_gridview_item_selector.xml -->

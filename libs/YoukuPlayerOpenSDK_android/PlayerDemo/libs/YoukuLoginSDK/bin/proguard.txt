@@ -1,0 +1,16 @@
+# view res/layout/custom_title.xml #generated:9
+-keep class com.v7.widget.SearchView { <init>(...); }
+
+# view res/layout/capture.xml #generated:59
+-keep class com.youku.login.Zxing.view.ViewfinderView { <init>(...); }
+
+# view res/layout/custom_title.xml #generated:17
+# view res/layout/webview_custom_title.xml #generated:20
+-keep class com.youku.login.util.ui.AlwaysMarqueeTextView { <init>(...); }
+
+# view res/layout/card_view_login_or_regist_activity.xml #generated:8
+-keep class com.youku.login.widget.CardLoginRegistView { <init>(...); }
+
+# view res/layout/loading.xml #generated:7
+-keep class com.youku.login.widget.Loading { <init>(...); }
+

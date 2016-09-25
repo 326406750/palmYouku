@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/YoukuLoginSDK.iml" filepath="$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuLoginSDK/YoukuLoginSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuPlayerOpenSDK/YoukuPlayerOpenSDK.iml" filepath="$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuPlayerOpenSDK/YoukuPlayerOpenSDK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuPlayerOpenSDK_android.iml" filepath="$PROJECT_DIR$/libs/YoukuPlayerOpenSDK_android/YoukuPlayerOpenSDK_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/libs.iml" filepath="$PROJECT_DIR$/libs/libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palmYouku.iml" filepath="$PROJECT_DIR$/palmYouku.iml" />
+    </modules>
+  </component>
+</project>

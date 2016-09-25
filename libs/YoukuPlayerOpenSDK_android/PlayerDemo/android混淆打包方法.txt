@@ -1,0 +1,8 @@
+��proguard.cfg���������������
+
+-keep class com.youku.**{*;}
+-keep class com.baseproject.**{*;}
+-keep class com.decapi.**{*;}
+-keep class com.luajava.**{*;}
+//-keep class com.baidu.player.download.**{*;}
+//-keep class com.kuteam.player.**{*;}

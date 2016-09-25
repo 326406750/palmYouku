@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="homepage_item_spacing">8dp</dimen>
+    <dimen name="homepage_title_height">36dp</dimen>
+    <dimen name="icon_not_loaded_height">30dp</dimen>
+    <dimen name="icon_not_loaded_width">32dp</dimen>
+    <dimen name="myyouku_setting_bar_height">33dp</dimen>
+    <dimen name="myyouku_setting_divider">1dp</dimen>
+    <dimen name="myyouku_setting_list_item_btn_margin_right">8dp</dimen>
+    <dimen name="myyouku_setting_list_item_height">39dp</dimen>
+    <dimen name="myyouku_setting_list_text_margin_left">16dp</dimen>
+    <dimen name="myyouku_setting_lists_gap">10dp</dimen>
+    <dimen name="myyouku_setting_text_margin_left">6dp</dimen>
+    <dimen name="myyouku_setting_wifi_bar_height">39dp</dimen>
+    <dimen name="myyouku_top_margin_left">8dp</dimen>
+    <dimen name="subtitle_margin">12dp</dimen>
+    <dimen name="text_size_1">11sp</dimen>
+    <dimen name="text_size_2">12sp</dimen>
+    <dimen name="text_size_3">14sp</dimen>
+    <dimen name="text_size_4">15sp</dimen>
+    <dimen name="text_size_5">17sp</dimen>
+    <dimen name="text_size_6">18sp</dimen>
+    <dimen name="text_size_7">21sp</dimen>
+    <dimen name="text_size_8">29sp</dimen>
+</resources>

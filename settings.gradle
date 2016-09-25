@@ -1,0 +1,1 @@
+include ':app' , ':libs:YoukuPlayerOpenSDK_android:YoukuPlayerOpenSDK',':libs:YoukuPlayerOpenSDK_android:YoukuLoginSDK'

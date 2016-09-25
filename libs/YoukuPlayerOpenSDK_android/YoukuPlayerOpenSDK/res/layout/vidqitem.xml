@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/vq0"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0.5dp"
+        android:background="@drawable/vidqbg"
+        android:clickable="true"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="标清"
+        android:textColor="@drawable/vidqtxt" />
+
+    <TextView
+        android:id="@+id/vq1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="0.5dp"
+        android:background="@drawable/vidqbg"
+        android:clickable="true"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="高清"
+        android:textColor="@drawable/vidqtxt" />
+
+    <TextView
+        android:id="@+id/vq2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vidqbg"
+        android:clickable="true"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="超清"
+        android:textColor="@drawable/vidqtxt" />
+
+</LinearLayout>

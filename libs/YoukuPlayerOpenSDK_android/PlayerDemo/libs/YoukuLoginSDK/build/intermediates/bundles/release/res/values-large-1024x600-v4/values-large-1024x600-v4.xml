@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="homepage_item_spacing">8px</dimen>
+    <dimen name="homepage_title_height">72px</dimen>
+    <dimen name="login_blue_line_Margin_right">78px</dimen>
+    <dimen name="login_blue_line_Margin_top">80px</dimen>
+    <dimen name="login_btn_magin_top_register">30px</dimen>
+    <dimen name="login_edit_magin_bottom">13px</dimen>
+    <dimen name="login_edit_magin_left">18px</dimen>
+    <dimen name="login_login_btn_height">94px</dimen>
+    <dimen name="login_tips_margin_top_register">6px</dimen>
+    <dimen name="myyouku_setting_bar_height">50px</dimen>
+    <dimen name="myyouku_setting_divider">1px</dimen>
+    <dimen name="myyouku_setting_list_item_btn_margin_right">23px</dimen>
+    <dimen name="myyouku_setting_list_item_height">59px</dimen>
+    <dimen name="myyouku_setting_list_text_margin_left">24px</dimen>
+    <dimen name="myyouku_setting_lists_gap">15px</dimen>
+    <dimen name="myyouku_setting_text_margin_left">9px</dimen>
+    <dimen name="myyouku_setting_wifi_bar_height">59px</dimen>
+    <dimen name="myyouku_top_margin_left">12px</dimen>
+    <dimen name="regist_text_margin_top">47px</dimen>
+    <style name="FontD">
+        <item name="android:textSize">18sp</item>
+    </style>
+    <style name="homepagetitle" parent="FontD">
+        <item name="android:textColor">#333333</item>
+    </style>
+</resources>
